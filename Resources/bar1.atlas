@@ -1,0 +1,12 @@
+
+bar1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+examples/peashoot/bar_up
+  rotate: false
+  xy: 2, 2
+  size: 106, 221
+  orig: 128, 256
+  offset: 1, 34
+  index: -1
